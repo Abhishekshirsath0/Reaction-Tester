@@ -22,4 +22,4 @@ A simple web app that tests your reaction time by displaying random shapes at ra
     git clone https://github.com/Abhishekshirsath0/reaction-tester.git
     ```
 
-2. Open `javascript.html` in your browser to view the project.
+2. Open `index.html` in your browser to view the project.
